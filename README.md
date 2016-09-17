@@ -8,9 +8,9 @@ eg: 1,2
 To start the game, Open command line and go to the path where you have the game folder, then type
 - Linux: 
 ```
-$ python shell.py
+$ python run_game.py
 ```
 - Windows: 
 ```
-> shell.py
+> run_game.py
 ```
